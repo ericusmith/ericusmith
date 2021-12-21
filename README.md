@@ -1,1 +1,1 @@
-Currently, a senior developer consultant at [https://www.thoughtworks.com/](Thoughtworks).
+Currently, a senior developer consultant at [Thoughtworks](https://www.thoughtworks.com/).
